@@ -1,0 +1,43 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 150px 0;
+}
+
+/* select - dbutils dropdown */
+
+fieldset {
+  border: thin solid #ccc; 
+  border-radius: 4px;
+  padding: 40px 100px;
+  background: #fbfbfb;
+}
+legend {
+ color: #678;
+}
+.form-control {
+  width: 95%;
+}
+label small {
+  color: #678 !important;
+}
+span.req {
+  color:maroon;
+  font-size: 112%;
+}
+
+
